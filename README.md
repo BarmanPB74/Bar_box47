@@ -1,8 +1,10 @@
 # Bar_box47 · archivo histórico
 
-El proyecto **BAR BOX** vive ahora en un solo repositorio:
+El proyecto **BAR BOX** sigue en desarrollo. Míralo aquí:
 
-### → https://github.com/BarmanPB74/Bar_box
+### → https://barmanpb74.github.io/bar-box/
+
+Presentación y demo con datos ficticios. El código fuente es privado.
 
 Aquí quedó el primer intento en Python puro (`historia/bar_box_primer_intento.py`):
 un inventario por consola con un bucle `while` y un diccionario. No se borra —
@@ -14,13 +16,7 @@ Tres repositorios con el mismo proyecto obligan a decidir en cuál está lo buen
 cada vez que te sientas a trabajar, y a Claude a leer los tres para entender el
 estado. Un repositorio, una rama de trabajo, una fuente de verdad.
 
-## Qué hacer desde el teléfono
+## Dónde sigue
 
-```bash
-cd ~
-git clone https://github.com/BarmanPB74/Bar_box.git bar-box
-cd bar-box && git checkout claude/bar-box-bitacora-mesas-k1s9nj
-bash scripts/bb.sh
-```
-
-La guía completa de Termux está en `docs/TERMUX_F8.md` del repositorio principal.
+El desarrollo continúa en un repositorio privado. Lo que hace BAR BOX hoy se
+puede ver en la presentación: https://github.com/BarmanPB74/bar-box
